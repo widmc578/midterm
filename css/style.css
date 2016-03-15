@@ -1,0 +1,95 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Pinyon Script', cursive;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.header {
+	margin-top: 30px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.header img {
+	width: 300px;
+}
+
+h2 {
+	font-family: Pinyon+Script;
+	font-size: 36px;
+	color: black;
+	padding: 5px 0px 8px 0px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.main-img {
+	width: 300px;
+	text-align: left;
+	margin-left: 20px;
+	margin-bottom: 25px;
+	padding: 5px;
+}
+
+p {
+	text-align: center;
+	padding: 5px 20px 5px 20px;
+	font-size: 20px;
+}
+
+.second-img {
+	text-align: right;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+h4 {
+	display: inline;
+}
+
+button {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.hide {
+	display: none;
+}
+
+.it {
+	display: none;
+}
+
+.forth {
+	display: none;
+}
+
+video {
+	margin-top: 20px;
+	width: 300px;
+	padding-bottom: 35px;
+	margin-bottom: 30px;
+}
+
+a {
+	display: inline;
+}
+
+.photo {
+	text-align: center;
+}
+
+.photo img {
+	width: auto;
+	height: 300px;
+}
+
+footer {
+	margin-bottom: 40px;
+}
